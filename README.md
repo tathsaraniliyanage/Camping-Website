@@ -1,4 +1,6 @@
-# Camping Website
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1100&height=70&duration=4000&lines=Camping+Website+&color=#FFA500" />
+</h1>
 
 ![Screenshot from 2025-03-29 13-17-13](https://github.com/user-attachments/assets/946f42a9-25bd-4183-9133-0cf73a3f4eea)
 
